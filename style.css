@@ -1,18 +1,18 @@
 @font-face {
     font-family: "MyFont";
-    src: url(/Assets/Genshin-Impact-Drip-Marketing-Regular.ttf);
+    src: url(./Assets/Genshin-Impact-Drip-Marketing-Regular.ttf);
 }
 @font-face {
     font-family: "TeyvatFont";
-    src: url(/Assets/Genshin-Impact-Teyvat-Regular.ttf);
+    src: url(./Assets/Genshin-Impact-Teyvat-Regular.ttf);
 }
 body {
-    background-image: url(/Assets/checkered\ blue💙.jpeg);
+    background-image: url(./Assets/checkered\ blue💙.jpeg);
     background-position: center;
     background-attachment: fixed;
 }
 .MainBody {
-    background-image: url(/Assets/3.png);
+    background-image: url(./Assets/3.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/487407792_539593682504654_8236220222534833959_n.jpg);
+    background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
     background-position: 0px -170px;
     Opacity: 1;
@@ -219,7 +219,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/_MG_2824.JPG);
+    background-image: url(./Assets/_MG_2824.JPG);
     background-size: cover;
     background-position: top;
     opacity: 1;
@@ -239,7 +239,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/638088124_792760940521259_3800108482318132421_n.jpg);
+    background-image: url(./Assets/638088124_792760940521259_3800108482318132421_n.jpg);
     background-size: cover;
     background-position: 0px -50px;
     opacity: 1;
@@ -259,7 +259,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
+    background-image: url(./Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
     background-size: cover;
     background-position: center;
     opacity: 1;
@@ -411,7 +411,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/487407792_539593682504654_8236220222534833959_n.jpg);
+    background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
     background-position: 0px -170px;
     Opacity: 1;
@@ -431,7 +431,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/_MG_2824.JPG);
+    background-image: url(./Assets/_MG_2824.JPG);
     background-size: cover;
     background-position: top;
     opacity: 1;
@@ -451,7 +451,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/638088124_792760940521259_3800108482318132421_n.jpg);
+    background-image: url(./Assets/638088124_792760940521259_3800108482318132421_n.jpg);
     background-size: cover;
     background-position: 0px -50px;
     opacity: 1;
@@ -471,7 +471,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
+    background-image: url(./Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
     background-size: cover;
     background-position: center;
     opacity: 1;
@@ -525,7 +525,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/487407792_539593682504654_8236220222534833959_n.jpg);
+    background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
     background-position: 0px -120px;
     Opacity: 1;
@@ -545,7 +545,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/_MG_2824.JPG);
+    background-image: url(./Assets/_MG_2824.JPG);
     background-size: cover;
     background-position: top;
     opacity: 1;
@@ -565,7 +565,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/638088124_792760940521259_3800108482318132421_n.jpg);
+    background-image: url(./Assets/638088124_792760940521259_3800108482318132421_n.jpg);
     background-size: cover;
     background-position: 0px -20px;
     opacity: 1;
@@ -585,7 +585,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
+    background-image: url(./Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
     background-size: cover;
     background-position: center;
     opacity: 1;
@@ -737,7 +737,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/487407792_539593682504654_8236220222534833959_n.jpg);
+    background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
     background-position: 0px -190px;
     Opacity: 1;
@@ -757,7 +757,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/_MG_2824.JPG);
+    background-image: url(./Assets/_MG_2824.JPG);
     background-size: cover;
     background-position: top;
     opacity: 1;
@@ -777,7 +777,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/638088124_792760940521259_3800108482318132421_n.jpg);
+    background-image: url(./Assets/638088124_792760940521259_3800108482318132421_n.jpg);
     background-size: cover;
     background-position: 0px -70px;
     opacity: 1;
@@ -797,7 +797,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
+    background-image: url(./Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
     background-size: cover;
     background-position: center;
     opacity: 1;
@@ -949,7 +949,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/487407792_539593682504654_8236220222534833959_n.jpg);
+    background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
     background-position: 0px -190px;
     Opacity: 1;
@@ -969,7 +969,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/_MG_2824.JPG);
+    background-image: url(./Assets/_MG_2824.JPG);
     background-size: cover;
     background-position: top;
     opacity: 1;
@@ -989,7 +989,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/638088124_792760940521259_3800108482318132421_n.jpg);
+    background-image: url(./Assets/638088124_792760940521259_3800108482318132421_n.jpg);
     background-size: cover;
     background-position: 0px -70px;
     opacity: 1;
@@ -1009,7 +1009,7 @@ body {
     transition: 1s;
     cursor: pointer;
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
-    background-image: url(/Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
+    background-image: url(./Assets/770584399_1094929876444711_6055496673169518500_n.jpg);
     background-size: cover;
     background-position: center;
     opacity: 1;
