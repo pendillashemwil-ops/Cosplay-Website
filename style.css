@@ -1,10 +1,10 @@
 @font-face {
     font-family: "MyFont";
-    src: url(./Assets/Genshin-Impact-Drip-Marketing-Regular.ttf);
+    src: url(Assets/Genshin-Impact-Drip-Marketing-Regular.ttf);
 }
 @font-face {
     font-family: "TeyvatFont";
-    src: url(./Assets/Genshin-Impact-Teyvat-Regular.ttf);
+    src: url(Assets/Genshin-Impact-Teyvat-Regular.ttf);
 }
 body {
     background-image: url(./Assets/checkered\ blue💙.jpeg);
