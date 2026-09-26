@@ -102,12 +102,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(224, 249, 255, 0.589), rgb(33, 255, 99)) border-box;
@@ -125,12 +125,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(238, 252, 255, 0.589), rgb(179, 71, 0)) border-box;
@@ -148,12 +148,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(238, 252, 255, 0.589), rgb(156, 0, 196)) border-box;
@@ -171,7 +171,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -20%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
@@ -208,7 +208,7 @@ body {
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
     background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
-    background-position: 0px -170px;
+    background-position: 0px -180px;
     Opacity: 1;
     animation: PagesIn 2.5s forwards;
     transform: translateY(-100%);
@@ -248,7 +248,7 @@ body {
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
     background-image: url(./Assets/638088124_792760940521259_3800108482318132421_n.jpg);
     background-size: cover;
-    background-position: 0px -50px;
+    background-position: 0px -70px;
     opacity: 1;
     animation: PagesIn 4s forwards;
     transform: translateY(-100%);
@@ -275,7 +275,7 @@ body {
     }
     .Denji {
     position: absolute;
-    transform: translate(460%, 30%) rotate(-20deg);
+    transform: translate(470%, 30%) rotate(-20deg);
     max-width: 13%;
     height: auto;
     border-radius: 5px;
@@ -314,12 +314,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(224, 249, 255, 0.589), rgb(33, 255, 99)) border-box;
@@ -337,12 +337,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20x;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(238, 252, 255, 0.589), rgb(179, 71, 0)) border-box;
@@ -360,12 +360,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(238, 252, 255, 0.589), rgb(156, 0, 196)) border-box;
@@ -383,12 +383,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -20%);
-    width: 200px;
+    width: 230px;
     height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 10px;
-    padding: 15px;
+    padding: 20px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
                 linear-gradient(to bottom, rgba(238, 252, 255, 0.589), rgb(0, 147, 245)) border-box;
@@ -420,7 +420,7 @@ body {
     background: linear-gradient(to bottom, rgba(26, 209, 255, 0.589), rgba(233, 251, 255, 0.589));
     background-image: url(./Assets/487407792_539593682504654_8236220222534833959_n.jpg);
     background-size: cover;
-    background-position: 0px -170px;
+    background-position: 0px -180px;
     Opacity: 1;
     animation: PagesIn 2.5s forwards;
     transform: translateY(-100%);
@@ -487,7 +487,7 @@ body {
     }
     .Denji {
     position: absolute;
-    transform: translate(460%, 30%) rotate(-20deg);
+    transform: translate(470%, 30%) rotate(-20deg);
     max-width: 13%;
     height: auto;
     border-radius: 5px;
